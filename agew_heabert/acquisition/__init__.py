@@ -1,1 +1,0 @@
-"""Licensed literature acquisition interfaces."""
